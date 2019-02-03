@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 526e303f0e7892a499b04ea8779d77ca
+timeCreated: 1549188349
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Road Sheet_0
+    21300002: Road Sheet_1
+    21300004: Road Sheet_2
+    21300006: Road Sheet_3
+    21300008: Road Sheet_4
+    21300010: Road Sheet_5
+    21300012: Road Sheet_6
+    21300014: Road Sheet_7
+    21300016: Road Sheet_8
+    21300018: Road Sheet_9
+    21300020: Road Sheet_10
+    21300022: Road Sheet_11
+    21300024: Road Sheet_12
+    21300026: Road Sheet_13
+    21300028: Road Sheet_14
+    21300030: Road Sheet_15
+    21300032: Road Sheet_16
+    21300034: Road Sheet_17
+    21300036: Road Sheet_18
+    21300038: Road Sheet_19
+    21300040: Road Sheet_20
+    21300042: Road Sheet_21
+    21300044: Road Sheet_22
+    21300046: Road Sheet_23
+    21300048: Road Sheet_24
+    21300050: Road Sheet_25
+    21300052: Road Sheet_26
+    21300054: Road Sheet_27
+    21300056: Road Sheet_28
+    21300058: Road Sheet_29
+    21300060: Road Sheet_30
+    21300062: Road Sheet_31
+    21300064: Road Sheet_32
+    21300066: Road Sheet_33
+    21300068: Road Sheet_34
+    21300070: Road Sheet_35
+    21300072: Road Sheet_36
+    21300074: Road Sheet_37
+    21300076: Road Sheet_38
+    21300078: Road Sheet_39
+    21300080: Road Sheet_40
+    21300082: Road Sheet_41
+    21300084: Road Sheet_42
+    21300086: Road Sheet_43
+    21300088: Road Sheet_44
+    21300090: Road Sheet_45
+    21300092: Road Sheet_46
+    21300094: Road Sheet_47
+    21300096: Road Sheet_48
+    21300098: Road Sheet_49
+    21300100: Road Sheet_50
+    21300102: Road Sheet_51
+    21300104: Road Sheet_52
+    21300106: Road Sheet_53
+    21300108: Road Sheet_54
+    21300110: Road Sheet_55
+    21300112: Road Sheet_56
+    21300114: Road Sheet_57
+    21300116: Road Sheet_58
+    21300118: Road Sheet_59
+    21300120: Road Sheet_60
+    21300122: Road Sheet_61
+    21300124: Road Sheet_62
+    21300126: Road Sheet_63
+    21300128: Road Sheet_64
+    21300130: Road Sheet_65
+    21300132: Road Sheet_66
+    21300134: Road Sheet_67
+    21300136: Road Sheet_68
+    21300138: Road Sheet_69
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 576
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Road Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3332
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3332
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3332
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3332
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3332
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 3332
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 3332
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 3332
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3332
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 3332
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3332
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 3332
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 3332
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 7488
+        y: 3332
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2568
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2568
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2568
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2568
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2568
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2568
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 2568
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 2568
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2568
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 2568
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2568
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 2568
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 2568
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 7488
+        y: 2568
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1804
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1804
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1804
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1804
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1804
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1804
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1804
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 1804
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1804
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 1804
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1804
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 1804
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 1804
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 7488
+        y: 1804
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1040
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1040
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1040
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1040
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1040
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1040
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 1040
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1040
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 1040
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1040
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 1040
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 1040
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 7488
+        y: 1040
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 276
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 276
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 276
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 276
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 276
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 276
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 276
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 276
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 276
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 276
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 276
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 276
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Road Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 7488
+        y: 276
+        width: 576
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
